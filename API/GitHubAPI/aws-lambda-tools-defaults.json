@@ -1,0 +1,22 @@
+
+{
+    "region" : "sa-east-1",
+    "profile" : "default",
+    "configuration" : "Release",
+    "framework"     : "net8.0",
+    "function-name" : "githubapi",
+    "package-type"  : "Zip",
+    "function-handler" : "GitHubAPI",
+    "function-memory-size" : 256,
+    "function-role"        : "arn:aws:iam::841862978713:role/lambda_exec_githubapi",
+    "function-timeout"     : 30,
+    "function-runtime"     : "dotnet8",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "\"ASPNETCORE_ENVIRONMENT\"=\"Development\"",
+    "kms-key"                  : "arn:aws:kms:sa-east-1:841862978713:key/0ef6b92c-7f01-4569-af7f-5eef75b38bce",
+    "image-tag"                : "",
+    "function-description"     : "Consume an API from GitHub"
+}
