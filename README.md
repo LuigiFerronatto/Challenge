@@ -7,9 +7,9 @@ This project is a solution created for a challenge, implemented in C# using .NET
 
 To run this project locally, you need to have the following prerequisites:
 - .NET 8 installed
-	- [Click here to install .net 8]([Download .NET 8.0 (Linux, macOS, and Windows) (microsoft.com)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0))
+	- [Click here to install .net 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - An IDE such as Visual Studio or Visual Studio Code
-	- [Click here to install VS or VSC]([Baixar Ferramentas do Visual Studio – Instalação gratuita para Windows, Mac e Linux (microsoft.com)](https://visualstudio.microsoft.com/pt-br/downloads/))
+	- [Click here to install VS or VSC](https://visualstudio.microsoft.com/pt-br/downloads/)
 
 # Local Host
 
